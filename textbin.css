@@ -1,0 +1,22 @@
+.icon32.icon32-textbin { background-image: url(img/bin32.png); }
+.wrap.textbin .search-box { float: right; }
+
+.wrap.textbin table#textbinSortable th#textbin-sort { width: 5%; }
+.wrap.textbin table#textbinSortable th#textbin-slug { width: 20%; }
+.wrap.textbin table#textbinSortable th#textbin-format { width: 10%; }
+.wrap.textbin table#textbinSortable th#textbin-content { width: 50%; }
+.wrap.textbin table#textbinSortable th#textbin-actions { width: 15%; }
+
+.wrap.textbin table#textbinSortable td { padding-top: 10px; padding-bottom: 10px; background: #f9f9f9; }
+.wrap.textbin table#textbinSortable td.center_content { text-align: center; }
+.wrap.textbin table#textbinSortable td img.alignleft { float: left; padding: 0 10px 10px 0; }
+.wrap.textbin table#textbinSortable td img.alignright { float: right; padding: 0 0 10px 10px; }
+.wrap.textbin table#textbinSortable td input { width: 150px; }
+
+.wrap.textbin form input#textbin_title { width: 20%; min-width: 150px }
+
+.wrap.textbin .tb_hide { display: none; }
+.wrap.textbin .tbHandle { cursor: move; }
+
+.wrap.textbin #textbin_input_form_fields { margin-top: 40px; border: 1px solid #cecece; padding: 20px; }
+.wrap.textbin #textbin_input_form_fields p { margin-top: 0px; }
